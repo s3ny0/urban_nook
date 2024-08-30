@@ -1,6 +1,6 @@
 /*Fonts*/
-@font-face {font-family: "Matchbook"; src: url("Fonts/Matchbook.otf");}
-@font-face {font-family: "20db"; src: url("Fonts/20db.otf");}
+@font-face {font-family: "Matchbook"; src: url("Matchbook.otf");}
+@font-face {font-family: "20db"; src: url("20db.otf");}
 
 /*Media Queries*/
 @media screen and (max-width: 414px) {
@@ -398,7 +398,7 @@ nav button:hover{
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
-    background-image: url('Images/hero-img\(pexels-rachel-claire\).jpg');
+    background-image: url('hero-img\(pexels-rachel-claire\).jpg');
     background-attachment: local;
     background-size: cover;
     background-position: center;
